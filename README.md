@@ -11,7 +11,7 @@ My background is in customer service and sales, which today translates into some
 
 Currently polishing **Capilora Salón**, my fullstack booking system, and diving deeper into professional state management with React.
 
-Contact: **jhoycardona03@hotmail.com** · [LinkedIn](https://www.linkedin.com/in/jhoyners-cardona-72b91741a) · [WhatsApp](https://wa.me/573004788709)
+Contact: **contact.jhoydev@gmail.com** · [LinkedIn](https://www.linkedin.com/in/jhoyners-cardona-dev) · [WhatsApp](https://wa.me/573004788709)
 
 <br>
 
@@ -29,7 +29,7 @@ Contact: **jhoycardona03@hotmail.com** · [LinkedIn](https://www.linkedin.com/in
 | Java | | |
 | Python | | |
 
-<sub>Full certifications on [my LinkedIn](https://www.linkedin.com/in/jhoyners-cardona-72b91741a)</sub>
+<sub>Full certifications on [my LinkedIn](https://www.linkedin.com/in/jhoyners-cardona-dev)</sub>
 
 <br>
 
